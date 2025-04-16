@@ -27,7 +27,7 @@ Thank you for your interest in improving the Weekly Report Emailer! This guide e
 
 ## Questions?
 
-Open a [GitHub Issue](https://github.com/your-username/weekly-report-emailer/issues) or contact me via GitHub (@your-username).
+Open a [GitHub Issue](https://github.com/your-username/weekly-report-emailer/issues) or contact me via GitHub (@stevenlaw892001).
 
 ## Attribution
 
