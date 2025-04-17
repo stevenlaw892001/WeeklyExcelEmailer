@@ -24,4 +24,4 @@ Add any other details, such as environment specifics (e.g., "Tested with smtp.gm
 
 ---
 
-Thank you for contributing to Weekly Report Emailer! Please contact @your-username via GitHub if you have questions.
+Thank you for contributing to Weekly Report Emailer! Please contact @stevenlaw892001 via GitHub if you have questions.
